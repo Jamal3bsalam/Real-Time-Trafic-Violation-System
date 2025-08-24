@@ -1,0 +1,6 @@
+@TraficViolation.GB.Pl_HostAddress = http://localhost:5261
+
+GET {{TraficViolation.GB.Pl_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
