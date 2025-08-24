@@ -82,4 +82,4 @@ The project follows **Clean Architecture** with separation of concerns into mult
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/VehicleViolationSystem.git
+   git clone https://github.com/Jamal3bsalam/Real-Time-Trafic-Violation-System.git
